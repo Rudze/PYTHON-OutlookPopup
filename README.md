@@ -3,16 +3,10 @@
 ---
 
 <div align="center">
-  <img alt="Demo" src="./assets_readme/images/alerte.png" />
-</div>
 
-<br/>
-
-<div align="center">
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)  
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
 </div>
 
